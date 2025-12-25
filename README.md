@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Need Kart](https://github.com/mahmedsaleem1/NeedKart)
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDb**
+- 🌱 I’m currently learning **Microsoft ASP Dotnet Core**
 
 - 👨‍💻 All of my projects are available at [<portfolio>](<portfolio>)
 
