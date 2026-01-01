@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
-<h3 align="center">A passionate Backend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmedsaleem1&label=Profile%20views&color=0e75b6&style=flat" alt="mahmedsaleem1" /> </p>
 
@@ -9,14 +8,8 @@
 
 - 🌱 I’m currently learning **Microsoft ASP Dotnet Core**
 
-- 👨‍💻 All of my projects are available at [<portfolio>](<portfolio>)
-
-- 💬 Ask me about **Backend Dev**
-
 - 📫 How to reach me **mahmedsaleem786@gmail.com**
-
-- 📄 Know about my experiences [<resume>](<resume>)
-
+  
 - ⚡ Fun fact **I think i am Funny**
 
 <h3 align="left">Connect with me:</h3>
