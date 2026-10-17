@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&text=Ahmed%20Saleem&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=AI-enabled%20backend%20engineer&descColor=8b949e&descSize=18&descAlignY=58" alt="Ahmed Saleem" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&text=Muhammad%20Ahmed&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=AI and Software Systems %20Engineer&descColor=8b949e&descSize=18&descAlignY=58" alt="Muhammad Ahmed" width="100%" />
 
 <br/>
 
-**Hi, I'm Ahmed 👋** &nbsp;·&nbsp; Software Engineering student at NED University, Class of 2027
+**Hi, I'm Ahmed 👋** &nbsp;·&nbsp; Software Engineering Undergraduate
 
 I like building the quiet, reliable parts of software: the APIs, data layers, and AI pipelines that make a product feel effortless on the surface.
 
