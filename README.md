@@ -20,10 +20,9 @@ I like building the quiet, reliable parts of software: the APIs, data layers, an
 
 ## ✨ A little about me
 
-- 🧠 Most at home building **AI-powered backend systems**: LLM pipelines, retrieval, and the infrastructure around them
-- 🏗️ I care about clean architecture: Onion, MVC, CQRS, SOLID, and the repository pattern
-- 🌱 Currently deepening my work with **RAG, vector search, and local LLMs**
-- 💬 Happy to talk backend design, AI tooling, or which idea is worth building next
+- 🧠 Most at home building **AI and Software Systems**
+- 🏗️ I care about clean architecture
+- 💬 Happy to talk System design, AI, or which idea is worth building next
 
 <br/>
 
@@ -42,14 +41,11 @@ I like building the quiet, reliable parts of software: the APIs, data layers, an
 ## 🚀 Featured work
 
 ### Loom: AI-powered internal assistant
-A production **Text-to-SQL RAG pipeline** that lets non-technical managers ask questions in plain English and get answers from a live enterprise database (**85+ tables, 3,300+ columns**) spanning manufacturing, HR, and finance.
+Contributing in a production **NL2SQL Pipeline** that lets non-technical managers ask questions in plain English and get answers from a live enterprise database (**85+ tables, 3,300+ columns**) spanning manufacturing, HR, and finance.
 
 - Gemini Flash with a **local Ollama fallback**, so queries keep flowing even when the cloud model doesn't
-- Redis caching brought repeated queries from **~200 s down to ~10 ms**
 - Multi-turn memory for natural follow-up questions, with Pydantic validating every generated query
-- `Python` · `FastAPI` · `Gemini` · `Ollama` · `Redis` · `SQL Server` · `Pydantic`
-
-*Built for an enterprise textile manufacturer, so the code is private.*
+- `Python` · `FastAPI` · `Gemini` · `Ollama` · `Redis` · `SQL Server` · `Pydantic` · `.NET Core`
 
 <br/>
 
