@@ -1,85 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ahmed Saleem Khan</h1>
-<h3 align="center">Backend-Focused Software Engineer | NED University '27</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mahmedsaleem1&label=Profile%20views&color=0e75b6&style=flat" alt="mahmedsaleem1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&text=Ahmed%20Saleem&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=AI-enabled%20backend%20engineer&descColor=8b949e&descSize=18&descAlignY=58" alt="Ahmed Saleem" width="100%" />
+
+<br/>
+
+**Hi, I'm Ahmed 👋** &nbsp;·&nbsp; Software Engineering student at NED University, Class of 2027
+
+I like building the quiet, reliable parts of software: the APIs, data layers, and AI pipelines that make a product feel effortless on the surface.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devahmedsaleem-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/devahmedsaleem/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:mahmedsaleem786@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-masaleem-0d1117?style=for-the-badge&logo=leetcode&logoColor=58a6ff)](https://leetcode.com/u/masaleem/)
+
+</div>
+
+<br/>
+
+## ✨ A little about me
+
+- 🧠 Most at home building **AI-powered backend systems**: LLM pipelines, retrieval, and the infrastructure around them
+- 🏗️ I care about clean architecture: Onion, MVC, CQRS, SOLID, and the repository pattern
+- 🌱 Currently deepening my work with **RAG, vector search, and local LLMs**
+- 💬 Happy to talk backend design, AI tooling, or which idea is worth building next
+
+<br/>
+
+## 🛠️ What I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs,js,dotnet,nodejs,express,fastapi,postgres,mongodb,redis,docker,git,postman&theme=dark" alt="Tech stack" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Fourth-year **Software Engineering** student at **NED University of Engineering and Technology** (CGPA: 3.673)
-- 💼 Previously interned at **Pakistan International Airlines** and **10Pearls**
-- 🔭 Currently working on [ASP.NET Core projects](https://github.com/mahmedsaleem1/ASP-Dotnet-Core-Stuff)
-- 🤖 Passionate about **AI integration**, **security systems**, and **scalable backend architecture**
-- 📫 Reach me at **mahmedsaleem786@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
-
----
-
-### 💼 Experience
-
-**Software Engineer Intern** — Pakistan International Airlines *(Feb 2026 – Mar 2026)*
-- Built a facial attendance mobile app using **React Native**, **ASP.NET Core**, and **SQL Server**
-- Implemented face verification APIs and GPS-based location spoofing prevention
-
-**.NET Full Stack Developer Intern** — 10Pearls *(Dec 2025 – Feb 2026)*
-- Developed a full-stack task management system with **ASP.NET Core**, **React.js**, and **SQL Server**
-- Used **Entity Framework**, **Serilog**, **xUnit**, and **SonarQube** for production-quality code
-
----
-
-### 🚀 Projects
-
-| Project | Description | Links |
-|---|---|---|
-| **Doctors-Up** | Fiverr-style healthcare marketplace with AI chatbot (OpenAI API), Stripe payments & JWT auth | [GitHub](https://github.com/mahmedsaleem1/Doctors-Up) |
-| **AirBridge** | MERN file-sharing platform with QR access, WhatsApp sharing, Firebase & Supabase auth | [GitHub](https://github.com/mahmedsaleem1/AirBridge) · [Live](https://fileairbridge.me) |
-| **NeedCart** | Reverse e-commerce marketplace with buyer-driven listings, bidding workflows & JWT auth | [GitHub](https://github.com/mahmedsaleem1/NeedCart) · [Live](https://need-cart-ci4a.vercel.app) |
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="aspnetcore" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<p align="center">
+  <sub><b>AI</b> &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; CrewAI &nbsp;·&nbsp; Ollama &nbsp;·&nbsp; Embeddings &nbsp;·&nbsp; Pydantic</sub>
 </p>
 
----
+<br/>
 
-### 🤝 Connect with Me
+## 🚀 Featured work
 
-<p align="left">
-  <a href="https://linkedin.com/in/devahmedsaleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devahmedsaleem" height="30" width="40" /></a>
-  <a href="https://instagram.com/__ahmedsaleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ahmedsaleem" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/masaleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masaleem" height="30" width="40" /></a>
-</p>
+### Loom: AI-powered internal assistant
+A production **Text-to-SQL RAG pipeline** that lets non-technical managers ask questions in plain English and get answers from a live enterprise database (**85+ tables, 3,300+ columns**) spanning manufacturing, HR, and finance.
 
----
+- Gemini Flash with a **local Ollama fallback**, so queries keep flowing even when the cloud model doesn't
+- Redis caching brought repeated queries from **~200 s down to ~10 ms**
+- Multi-turn memory for natural follow-up questions, with Pydantic validating every generated query
+- `Python` · `FastAPI` · `Gemini` · `Ollama` · `Redis` · `SQL Server` · `Pydantic`
 
-### 📊 GitHub Stats
+*Built for an enterprise textile manufacturer, so the code is private.*
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmedsaleem1&show_icons=true&locale=en&layout=compact" alt="mahmedsaleem1" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmedsaleem1&" alt="mahmedsaleem1" />
-</p>
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛒 [NeedCart](https://github.com/mahmedsaleem1/NeedCart)
+A reverse marketplace: buyers post what they need, sellers compete to fulfil it. I led a team of three.
+
+Stripe escrow payments, JWT auth, OTP verification, and a Gemini-powered assistant, on an MVC architecture.
+
+`JavaScript` `Node.js` `Express` `Stripe`
+
+[Live demo](https://need-cart-ci4a.vercel.app)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🌉 [AirBridge](https://github.com/mahmedsaleem1/AirBridge)
+A file-sharing platform with QR-code access and WhatsApp sharing.
+
+Firebase and Supabase auth on a MERN foundation.
+
+`MongoDB` `Express` `React` `Node.js`
+
+[Live demo](https://fileairbridge.me)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🩺 [Doctors-Up](https://github.com/mahmedsaleem1/Doctors-Up)
+A freelancing-style marketplace for healthcare, with an AI chatbot, Stripe payments, and JWT auth.
+
+`JavaScript` `OpenAI API` `Stripe`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🌾 [Agri-Connect](https://github.com/mahmedsaleem1/Agri-Connect)
+My entry for the Build4Better hackathon, built as a fast, focused sprint.
+
+`TypeScript`
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+*If something here sparks an idea, I'd love to hear about it.* ☕
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,100:0d1117&section=footer" width="100%" alt="" />
+
+</div>
